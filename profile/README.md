@@ -1,6 +1,4 @@
-<div align="center">
-<img width="20%" src="../vi/r-logo.png">
-</div>
+<img src="../vi/r-logo.png" align="right" height="160">
 
 # 江西软件职业技术大学计算机协会
 
